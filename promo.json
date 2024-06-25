@@ -1,0 +1,12 @@
+{
+"promocodes": [
+{
+"code": "PROMO100",
+"amount": 100
+},
+{
+"code": "PROMO200",
+"amount": 200
+}
+]
+}
